@@ -17,5 +17,6 @@ public class Startup {
         User.add("admin", "admin", "admin");
         User.add("user", "user", "user");
         User.add("riku", "riku", "riku");
+
     }
 }
