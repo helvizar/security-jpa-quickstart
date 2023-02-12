@@ -16,5 +16,6 @@ public class Startup {
         User.deleteAll();
         User.add("admin", "admin", "admin");
         User.add("user", "user", "user");
+        User.add("riku", "riku", "riku");
     }
 }
